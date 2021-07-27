@@ -1,0 +1,12 @@
+{
+    "List": {
+        "LeftProfileView": {
+            "profilePic": "person.crop.circle",
+            "name": "John Doe"
+        },
+        "RightProfileView": {
+            "profilePic": "person.crop.circle",
+            "name": "John Doe"
+        }
+    }
+}
